@@ -1,4 +1,4 @@
-const socket = io('https://markb-hub-github-io.onrender.com')
+const socket = io('https://markb-hub-github-io-1.onrender.com')
 
 const msgInput = document.querySelector('#message')
 const nameInput = document.querySelector('#name')
